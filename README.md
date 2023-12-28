@@ -6,7 +6,7 @@
 
 - [Instruções](#-instruções)
 - [Requisitos Obrigatórios](#-requisitos-obrigatórios)
-- [Requisitos Opcionais (Pontuação Extra)](<#requisitos-opcionais-(pontuação-extra)>)
+- [Requisitos Opcionais (Pontuação Extra)](<#-requisitos-opcionais-(pontuação-extra)>)
 
 ## 📄 Instruções
 
