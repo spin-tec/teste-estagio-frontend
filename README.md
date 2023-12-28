@@ -25,8 +25,8 @@
 
 Esses requisitos não são obrigatórios, mas irão lhe garantir uma pontuação extra:
 
-1. Faça o deploy do projeto em alguma plataforma de hospedagem gratuita ([Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/), [Render](https://render.com/)).
-2. Coloque no README do projeto as intruções para rodar ele.
-3. Utilize linters como [Eslint](https://eslint.org/) e [Prettier](https://prettier.io/).
-4. Utilize o framework [NextJS](https://nextjs.org/) para fazer seu projeto.
-5. Utilize [SASS](https://sass-lang.com/) para estilização.
+- Faça o deploy do projeto em alguma plataforma de hospedagem gratuita ([Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/), [Render](https://render.com/)).
+- Coloque no README do projeto as intruções para rodar ele.
+- Utilize linters como [Eslint](https://eslint.org/) e [Prettier](https://prettier.io/).
+- Utilize o framework [NextJS](https://nextjs.org/) para fazer seu projeto.
+- Utilize [SASS](https://sass-lang.com/) para estilização.
