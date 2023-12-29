@@ -26,7 +26,7 @@
 Esses requisitos não são obrigatórios, mas irão lhe garantir uma pontuação extra:
 
 - Faça o deploy do projeto em alguma plataforma de hospedagem gratuita ([Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/), [Render](https://render.com/)).
-- Desenvolva no modelo "mobile first" fazendo as telas primeiro para celular e em seguida fazendo as media querys adaptando a tela para desktop.
+- Desenvolva no modelo "mobile first" fazendo as telas primeiro para celular e em seguida fazendo as media queries adaptando a tela para desktop.
 - Coloque no README do projeto as intruções para rodar ele.
 - Utilize linters como [Eslint](https://eslint.org/) e [Prettier](https://prettier.io/).
 - Utilize o framework [NextJS](https://nextjs.org/) para fazer seu projeto.
